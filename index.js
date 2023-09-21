@@ -1,16 +1,19 @@
+var n=prompt('enter a number: ');
 
-// cách ghi chú thông tin
 
-/**
- * kasjdkasdjasdlk
- * ádhasjdhasdjkashdkjash
- * jhasdjkashdajksdashd
- * ádhajsdhasldhasdl
- */
+for(i=0;i<n;i++){
+console.log(i)
+}
 
-// ctrl /
 
-var fullName = 'Phong Kha';
-var old = 18; 
-alert(fullName);
-alert(old);
+
+
+
+
+
+
+
+
+
+
+
